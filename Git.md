@@ -12,7 +12,7 @@
 
 * **发起请求（Pull Requst）**：比如李四Fork了张三的库，然后李四添加了一个文件，然后向张三发起请求，张三觉得不错的话，将添加的文件合并到张三自己的库里面
 
-  ![img](file:///C:/Users/13065/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+  ![img](https://github.com/1306588647/Technology-Sharing/blob/master/Picture/clip_image001.png)
 
 * **关注（Watch）**：如果关注了某个项目，如果该项目由任何更新，则在自己的主页就可以通知
 
