@@ -62,7 +62,7 @@
   git commit -m "提交描述"
   ```
 
-  ![git提交流程](C:\Users\13065\Desktop\图片\git提交流程.png)
+  ![git提交流程](https://github.com/1306588647/Technology-Sharing/blob/master/Picture/git%E6%8F%90%E4%BA%A4%E6%B5%81%E7%A8%8B.png)
 
 
 
